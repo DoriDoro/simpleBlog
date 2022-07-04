@@ -2,11 +2,11 @@
 
 
 # Description:
-A simple Blog application. A user can login and add a blog on the page. The app is deployed on Heroku.
+A simple Blog application. Testuser can login and add a blog on the page. The app is deployed on Heroku.
 
 
 # Testuser login:
-username: Testuser
+username: Testuser <br />
 password: Test_Pass_987
 
 
@@ -21,5 +21,5 @@ password: Test_Pass_987
 
 
 # Heroku website URL:
-
+https://app-of-simple-blog.herokuapp.com/
 
